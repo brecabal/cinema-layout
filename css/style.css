@@ -1,0 +1,175 @@
+body{
+	font-family: Arial;
+}
+
+.titulo-header{
+	display: inline-block;
+	position: relative;
+	bottom: 40px;
+	left: 40px;
+	color: #CFC7C7;
+}
+
+.buscar{
+	border: 1px solid #CFC7C7;
+	color: #CFC7C7;
+	margin: 3% 0px;
+}
+
+
+.banner{
+	background: url(../img/banner.jpg);
+	width: 100%;
+}
+
+.icono{
+    margin:50%;
+	width: 15%;
+	position: relative;
+	right: 118px;
+	top: 26px;
+	height: 90px;
+}
+
+.gran-big{
+	font-size: 40px;
+	color: #B4ACAC; 
+	margin: 10% 0px;
+	border-bottom: 2px solid #B4ACAC;
+	padding-bottom: 20px;
+}
+
+.boton-age{
+	color: #09982E;
+	border: 2px solid #09982E;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	padding: 5px;
+
+}
+
+.letras-big{
+	color: #B4ACAC;
+	margin: 10px;
+	font-size: 15px;
+}
+
+.letras-big1{
+	color: #B4ACAC;
+	font-size: 15px;
+	margin: 10px;
+}
+
+.fondo-color{
+	background-color: #F2C909;
+	width: 100%;
+
+}
+
+.video{
+	color: #FFFFFF;
+	border:1px solid #D5AD0D;
+	border-radius: 5px;
+	background:#D5AD0D;
+    width: 20%;
+    padding: 20px;
+    margin: 25px;
+}
+
+.ticket{
+	color: #FFFFFF;
+	border:1px solid #DB900E;
+	border-radius: 5px;
+	background:#DB900E;
+    width: 20%;
+    padding: 20px;
+    margin: 10px 25px;
+}
+
+a{
+	color:#fff;
+	text-decoration: none;
+}
+
+
+.imagen-color{
+	width: 100%;
+	padding: 10px;
+	height: 150px;
+}
+
+.titulobook1{
+	color:  #B4ACAC;
+	margin: 30px 0px;
+}
+
+h1{
+	font-size: 35px;
+	margin: 30px 0px;
+}
+
+.titulobook2{
+	color:#D7C7C7;
+	margin: 30px 0px;
+}
+
+.ticket1{
+	color: #FFFFFF;
+	border:1px solid #DB900E;
+	border-radius: 5px;
+	background:#DB900E;
+    width: 40%;
+    padding: 20px;
+    margin: 30px 0px;
+    margin-left: 10px;
+}
+
+.letras-chica{
+	color: #D55E3A;
+	margin: 30px 10px;
+}
+
+h5{
+	color: #CC8D14;
+	margin: 30px 0px;
+}
+
+.fotos-final{
+	width: 100%;
+	height: 200px;
+	margin: 50% auto;
+}
+
+footer{
+	background: #F1E9E9;
+}
+
+.titulobook3{
+	color:  #B4ACAC;
+	margin: 20px 0px;
+}
+
+.titulobook4{
+  color:#D7C7C7;
+  margin: 10px 0px;
+}
+
+.titulobook5{
+	color: #D7C7C7;
+	margin: 20px 0px;
+}
+
+.titulobook6{
+ color: #B4ACAC;
+}
+
+.enlace-final{
+	color: #B4ACAC;
+	text-decoration: none;
+	display: block;
+}
+
+iframe{
+	width: 100%;
+
+}
